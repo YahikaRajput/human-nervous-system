@@ -1,0 +1,26 @@
+{
+  "name": "nervous-system-api",
+  "version": "1.0.0",
+  "description": "Human Nervous System Simulator API - DecodeLabs Project 2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "express",
+    "api",
+    "backend",
+    "biology",
+    "decode-labs",
+    "nervous-system"
+  ],
+  "author": "Abhishek Raut",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.4.2",
+    "express": "^4.21.2",
+    "morgan": "^1.10.0"
+  }
+}

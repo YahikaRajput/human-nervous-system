@@ -1,0 +1,83 @@
+{
+  "system_overview": {
+    "central_nervous_system": {
+      "name": "Central Nervous System",
+      "parts": [
+        "Brain",
+        "Spinal Cord"
+      ],
+      "function": "Controls the entire body and processes information."
+    },
+
+    "peripheral_nervous_system": {
+      "name": "Peripheral Nervous System",
+      "parts": [
+        "Sensory Nerves",
+        "Motor Nerves"
+      ],
+      "function": "Carries messages between the brain, spinal cord and body."
+    }
+  },
+
+  "brain": {
+    "cerebrum": {
+      "function": "Thinking, memory, intelligence, voluntary movement."
+    },
+
+    "frontal_lobe": {
+      "function": "Decision making, speech, planning."
+    },
+
+    "parietal_lobe": {
+      "function": "Touch, temperature and pain."
+    },
+
+    "temporal_lobe": {
+      "function": "Hearing, memory and language."
+    },
+
+    "occipital_lobe": {
+      "function": "Vision processing."
+    },
+
+    "cerebellum": {
+      "function": "Balance and coordination."
+    },
+
+    "brainstem": {
+      "function": "Breathing, heartbeat and reflexes."
+    }
+  },
+
+  "neurons": {
+
+    "sensory_neuron": {
+      "function": "Carries signals from receptors to the CNS."
+    },
+
+    "motor_neuron": {
+      "function": "Carries signals from CNS to muscles."
+    },
+
+    "interneuron": {
+      "function": "Connects sensory and motor neurons."
+    },
+
+    "dendrite": {
+      "function": "Receives nerve impulses."
+    },
+
+    "cell_body": {
+      "function": "Controls the neuron."
+    },
+
+    "axon": {
+      "function": "Carries impulses away from the cell body."
+    },
+
+    "synapse": {
+      "function": "Transfers signals between neurons."
+    }
+
+  }
+}
