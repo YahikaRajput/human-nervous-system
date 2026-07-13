@@ -157,7 +157,7 @@ This project helped in understanding:
 
 **Yashika Rajput**
 
-GitHub: https://github.com/Aaabis00
+GitHub: https://github.com/YahikaRajput
 
 ---
 
